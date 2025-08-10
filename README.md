@@ -1,4 +1,4 @@
-# 🧾 Informe Ejecutivo: Evasión de Clientes (Churn)
+
 
 ## 🎯 Propósito del Proyecto
 
